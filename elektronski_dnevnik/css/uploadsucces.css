@@ -1,0 +1,19 @@
+body{
+	background-image: url(../images/uplsucces.jpg);
+	background-size: cover;
+}
+h1{
+margin:auto;
+margin-left: 20%;
+margin-top: 15%;
+background-color: rgba(255,255,255,0.6);
+padding: 30px;
+max-width: 300px;
+}
+h2{
+	margin-left: 20%;
+background-color: rgba(255,255,255,0.6);
+padding: 30px;
+max-width: 90px;
+
+}

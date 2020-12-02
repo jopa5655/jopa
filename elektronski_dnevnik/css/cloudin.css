@@ -1,0 +1,22 @@
+body{
+	background-image: url("../images/lgipoz.jpg");
+	background-size: cover;
+	
+
+}
+#pupload{
+background-color: rgba(255,255,255,0.6);
+margin:auto;
+margin-top: 50px;
+max-width: 353px;
+
+}
+.phup{
+	width: 353px;
+}
+.gallery{
+	background-color: rgba(255,255,255,0.6);
+	text-decoration: none;
+	padding: 10px;
+margin-left: 38%;
+}
